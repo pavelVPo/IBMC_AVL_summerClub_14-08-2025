@@ -1,0 +1,11 @@
+Query:	"study"
+N of rslts: 1 653 532
+
+Article type: Observational Study
+N of rslts: 180 850
+-> Save, PMID
+
+Article type: Meta-Analysis
+N of rslts: 199 275
+
+Using Web Interface it is possible to save 10 000 results only, unfortunately
